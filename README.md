@@ -1,8 +1,8 @@
-# 99Travl Server
+# 99Travl Docs
 
 This project for all parts of the project 
 https://99travl.com which could managed
-through a server, docs included.
+through a server, wesite, admin,... Docs included.
 
 ## Agenda
 1. [System requirements](./docs/sys-req.md)
